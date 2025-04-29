@@ -20,8 +20,6 @@ This project is a static HTML & CSS replica of the "Bootslander" landing page, i
 - **Font Awesome Icons**: Social media icons (ensure you include Font Awesome via CDN if you want icons to display).
 
 ## Project Structure
-
-```
 /
 ├── index.html
 ├── style.css
@@ -43,7 +41,7 @@ This project is a static HTML & CSS replica of the "Bootslander" landing page, i
     │   ├── testimonials-1.jpg ... testimonials-5.jpg
     └── team/
         ├── team-1.jpg ... team-3.jpg
-```
+        
 
 ## Getting Started
 
